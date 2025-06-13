@@ -132,3 +132,7 @@ body {
 .eql-cntrb { 
   font-size: smaller;
 }
+
+.slider-container {
+  align-items: center;
+}
